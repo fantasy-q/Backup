@@ -1,0 +1,36 @@
+{
+    "code":0,
+    "message":"success",
+    "result":{
+        "data":[   
+            {
+                "badge":"会员专享",
+                "badge_type":0,
+                "cover":"http://i0.hdslb.com/bfs/bangumi/f5d5f51b941c01f8b90b361b412dc75ecc2608d3.png",
+                "index_show":"全14话",
+                "is_finish":1,
+                "link":"https://www.bilibili.com/bangumi/play/ss24588",
+                "media_id":102392,
+                "order":{
+                    "follow":"607.7万人追番",
+                    "play":"1.4亿次播放",
+                    "pub_date":1530979200,
+                    "pub_real_time":1530979200,
+                    "renewal_time":1545843600,
+                    "score":"9.7分",
+                    "type":"follow"
+                },
+                "season_id":24588,
+                "title":"工作细胞"
+            },
+        ],  
+        "page":{
+            "num":1,
+            "size":20,
+            "total":3089
+        }
+    }
+}
+
+
+
