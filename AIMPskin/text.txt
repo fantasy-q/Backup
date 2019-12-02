@@ -1,0 +1,1307 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   AIMP
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="content-Type"/>
+  <meta content="AIMP : Free Audio Player : Официальный сайт программы" name="description"/>
+  <meta content="бесплатная программа, аудиоплеер, free soft, ыщае, аудиоплеер AIMP, freeware, акууцфку, программное обеспечение, слушать музыку, медиаплеер, медиаплеер AIMP, софт, бесплатный софт, AIMP, AIMP Classic, плагины, плагины дл¤ AIMP, настройки AIMP, поддержка AIMP, описание AIMP, эквалайзер, звук, EQ, eq, чистый звук, plugins, здгпшты, хороший плеер" name="keywords"/>
+  <meta content="all" name="robots"/>
+  <meta content="1 days" name="revisit-after"/>
+  <meta content="6f5a7f567fbddd8ad094" name="wot-verification"/>
+  <meta content="#FF9F19" name="theme-color"/>
+  <meta content="logo=/v2/theme/images/tile50.png, color=#FF9B19" name="yandex-tableau-widget">
+   <meta content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" name="viewport"/>
+   <link href="/v2/theme/images/tile120.png" rel="apple-touch-icon" sizes="120x120"/>
+   <link href="/v2/theme/images/tile152.png" rel="apple-touch-icon" sizes="152x152"/>
+   <link href="/v2/theme/images/tile180.png" rel="apple-touch-icon" sizes="180x180"/>
+   <script src="/v2/theme/scripts/lightbox.js" type="text/javascript">
+   </script>
+   <script src="/v2/theme/scripts/slider.js" type="text/javascript">
+   </script>
+   <script src="/v2/theme/scripts/utils.js" type="text/javascript">
+   </script>
+   <link href="/v2/theme/styles.css" rel="stylesheet" type="text/css">
+    <link href="/v2/theme/scripts/lightbox.css" media="screen" rel="stylesheet" type="text/css">
+     <link href="/favicon.ico" rel="icon" type="image/x-icon">
+      <link href="/rss.php" rel="alternate" title="AIMP - RSS" type="application/rss+xml"/>
+      <link href="/rss.php?ch=catalog" rel="alternate" title="AIMP Catalog - RSS" type="application/rss+xml"/>
+     </link>
+    </link>
+   </link>
+  </meta>
+ </head>
+ <body>
+  <!-- Yandex.Metrika counter -->
+  <script type="text/javascript">
+   (function (d, w, c) {
+
+				(w[c] = w[c] || []).push(function() {
+
+					try {
+
+						w.yaCounter34143930 = new Ya.Metrika({
+
+							id:34143930,
+
+							clickmap:true,
+
+							trackLinks:true,
+
+							accurateTrackBounce:true,
+
+							webvisor:true,
+
+							trackHash:true
+
+						});
+
+					} catch(e) { }
+
+				});
+
+
+
+				var n = d.getElementsByTagName("script")[0],
+
+					s = d.createElement("script"),
+
+					f = function () { n.parentNode.insertBefore(s, n); };
+
+				s.type = "text/javascript";
+
+				s.async = true;
+
+				s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+
+
+				if (w.opera == "[object Opera]") {
+
+					d.addEventListener("DOMContentLoaded", f, false);
+
+				} else { f(); }
+
+			})(document, window, "yandex_metrika_callbacks");
+  </script>
+  <noscript>
+   <div>
+    <img alt="" src="https://mc.yandex.ru/watch/34143930" style="position:absolute; left:-9999px;"/>
+   </div>
+  </noscript>
+  <!-- /Yandex.Metrika counter -->
+  <!-- Rating@Mail.ru counter -->
+  <script type="text/javascript">
+   var _tmr = _tmr || [];
+
+		_tmr.push({id: "988583", type: "pageView", start: (new Date()).getTime()});
+
+		(function (d, w) {
+
+		   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+
+		   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+
+		   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+
+		   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+
+		})(document, window);
+  </script>
+  <noscript>
+   <div style="position:absolute;left:-9999px;">
+    <img alt="Рейтинг@Mail.ru" height="1" src="//top-fwz1.mail.ru/counter?id=988583;js=na" style="border:0;" width="1"/>
+   </div>
+  </noscript>
+  <!-- //Rating@Mail.ru counter -->
+  <div href="#" id="navigator_host" onclick="toggleVisibility('navigator_host')">
+   <div id="navigator">
+    <div class="scrollbox">
+     <div class="block">
+      <div class="block_header">
+       AIMP
+      </div>
+      <div class="block_content">
+       <ul>
+        <li>
+         <a href="/">
+          Main page
+         </a>
+        </li>
+        <li>
+         <a href="?do=awards">
+          Our awards
+         </a>
+        </li>
+        <li>
+         <a href="?do=banners">
+          Banners
+         </a>
+        </li>
+        <li>
+         <a href="forum/index.php">
+          Forum
+         </a>
+        </li>
+        <li>
+         <a href="/blogs/">
+          Blog
+         </a>
+        </li>
+        <li>
+         <a href="?do=feedback">
+          Feedback
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="block_separator">
+       For Windows
+      </div>
+      <div class="block_content">
+       <ul>
+        <li>
+         <a href="?do=features">
+          Main features
+         </a>
+        </li>
+        <li>
+         <a href="?do=changelog">
+          Change Log
+         </a>
+        </li>
+        <li>
+         <a href="/forum/index.php?topic=259.0">
+          F.A.Q.
+         </a>
+        </li>
+        <li>
+         <a href="?do=download&amp;os=windows">
+          Download
+         </a>
+         <ol>
+          <li>
+           <a href="?do=download&amp;os=windows&amp;cat=old">
+            Old Versions
+           </a>
+          </li>
+          <li>
+           <a href="?do=download&amp;os=windows&amp;cat=se">
+            Skin Editor
+           </a>
+          </li>
+          <li>
+           <a href="?do=download&amp;os=windows&amp;cat=lng">
+            Localization Editor
+           </a>
+          </li>
+          <li>
+           <a href="?do=download&amp;os=windows&amp;cat=sdk">
+            SDK
+           </a>
+          </li>
+         </ol>
+        </li>
+        <li>
+         <a href="?do=catalog&amp;os=windows">
+          Addons
+         </a>
+         <ol>
+          <li>
+           <a href="?do=catalog&amp;os=windows&amp;id=0">
+            Skins
+           </a>
+          </li>
+          <li>
+           <a href="?do=catalog&amp;os=windows&amp;id=1">
+            Icons
+           </a>
+          </li>
+          <li>
+           <a href="?do=catalog&amp;os=windows&amp;id=2">
+            Plugins
+           </a>
+          </li>
+          <li>
+           <a href="?do=catalog&amp;os=windows&amp;id=3">
+            Wallpapers
+           </a>
+          </li>
+          <li>
+           <a href="/forum/index.php?topic=34387.msg221403#msg221403">
+            Encoders
+           </a>
+          </li>
+         </ol>
+        </li>
+       </ul>
+      </div>
+      <div class="block_separator">
+       For Android
+      </div>
+      <div class="block_content">
+       <ul>
+        <li>
+         <a href="?do=features&amp;os=android">
+          Main features
+         </a>
+        </li>
+        <li>
+         <a href="?do=changelog&amp;os=android">
+          Change Log
+         </a>
+        </li>
+        <li>
+         <a href="?do=download&amp;os=android">
+          Download
+         </a>
+         <ol>
+          <li>
+           <a href="?do=download&amp;cat=old&amp;os=android">
+            Old Versions
+           </a>
+          </li>
+          <li>
+           <a href="?do=download&amp;cat=se&amp;os=android">
+            Skin Editor
+           </a>
+          </li>
+          <li>
+           <a href="?do=download&amp;cat=lng">
+            Localization Editor
+           </a>
+          </li>
+         </ol>
+        </li>
+        <li>
+         <a href="?do=catalog&amp;os=android">
+          Addons
+         </a>
+         <ol>
+          <li>
+           <a href="?do=catalog&amp;os=android&amp;id=0">
+            Skins
+           </a>
+          </li>
+          <li>
+           <a href="?do=catalog&amp;os=android&amp;id=3">
+            Wallpapers
+           </a>
+          </li>
+         </ol>
+        </li>
+        <li>
+         <a href="/forum/index.php?topic=39542.0">
+          F.A.Q.
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="main_menu">
+   <div class="main_menu_hamburger" href="#" onclick="toggleVisibility('navigator_host')">
+   </div>
+   <table align="right">
+    <tr>
+     <td width="80px">
+      <a href="?do=lang&amp;lng=ru" title="Русский язык">
+       RU
+      </a>
+      <a href="?do=lang&amp;lng=en" title="English Language">
+       EN
+      </a>
+     </td>
+    </tr>
+   </table>
+   <table align="center" class="main_menu_text_bar">
+    <tr>
+     <td class="main_menu_padding" width="80">
+     </td>
+     <td>
+      <a href="/" title="Main page">
+       Main page
+      </a>
+      <a href="?do=download" title="Download">
+       Download
+      </a>
+      <a href="?do=catalog" title="Addons">
+       Addons
+      </a>
+      <a href="/forum/index.php" title="Forum">
+       Forum
+      </a>
+      <a href="/blogs/" title="Blog">
+       Blog
+      </a>
+      <a href="?do=feedback" title="Feedback">
+       Feedback
+      </a>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <div id="header">
+   <div id="header_content">
+    <div class="slider" id="preview" title="autoplay:true; frames:7; source:/v2/theme/images/features.png">
+    </div>
+    <div id="header_logo">
+     <a class="button_download_windows" href="?do=download&amp;os=windows">
+      <span class="button_download_text">
+       v4.51 Build 2084  (01.12.2018)
+      </span>
+     </a>
+     <a class="button_download_android" href="?do=download&amp;os=android">
+      <span class="button_download_text">
+       v2.90 Build 852  (08.08.2019)
+      </span>
+     </a>
+    </div>
+   </div>
+  </div>
+  <script type="text/javascript">
+   zSlider.initialize(document.getElementById("preview"));
+  </script>
+  <div id="page">
+   <table align="center" cellspacing="0" class="page_content">
+    <tr valign="top">
+     <td id="page_left_pane">
+      <div class="block">
+       <div class="block_header">
+        AIMP
+       </div>
+       <div class="block_content">
+        <ul>
+         <li>
+          <a href="/">
+           Main page
+          </a>
+         </li>
+         <li>
+          <a href="?do=awards">
+           Our awards
+          </a>
+         </li>
+         <li>
+          <a href="?do=banners">
+           Banners
+          </a>
+         </li>
+         <li>
+          <a href="forum/index.php">
+           Forum
+          </a>
+         </li>
+         <li>
+          <a href="/blogs/">
+           Blog
+          </a>
+         </li>
+         <li>
+          <a href="?do=feedback">
+           Feedback
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="block_separator">
+        For Windows
+       </div>
+       <div class="block_content">
+        <ul>
+         <li>
+          <a href="?do=features">
+           Main features
+          </a>
+         </li>
+         <li>
+          <a href="?do=changelog">
+           Change Log
+          </a>
+         </li>
+         <li>
+          <a href="/forum/index.php?topic=259.0">
+           F.A.Q.
+          </a>
+         </li>
+         <li>
+          <a href="?do=download&amp;os=windows">
+           Download
+          </a>
+          <ol>
+           <li>
+            <a href="?do=download&amp;os=windows&amp;cat=old">
+             Old Versions
+            </a>
+           </li>
+           <li>
+            <a href="?do=download&amp;os=windows&amp;cat=se">
+             Skin Editor
+            </a>
+           </li>
+           <li>
+            <a href="?do=download&amp;os=windows&amp;cat=lng">
+             Localization Editor
+            </a>
+           </li>
+           <li>
+            <a href="?do=download&amp;os=windows&amp;cat=sdk">
+             SDK
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="?do=catalog&amp;os=windows">
+           Addons
+          </a>
+          <ol>
+           <li>
+            <a href="?do=catalog&amp;os=windows&amp;id=0">
+             Skins
+            </a>
+           </li>
+           <li>
+            <a href="?do=catalog&amp;os=windows&amp;id=1">
+             Icons
+            </a>
+           </li>
+           <li>
+            <a href="?do=catalog&amp;os=windows&amp;id=2">
+             Plugins
+            </a>
+           </li>
+           <li>
+            <a href="?do=catalog&amp;os=windows&amp;id=3">
+             Wallpapers
+            </a>
+           </li>
+           <li>
+            <a href="/forum/index.php?topic=34387.msg221403#msg221403">
+             Encoders
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ul>
+       </div>
+       <div class="block_separator">
+        For Android
+       </div>
+       <div class="block_content">
+        <ul>
+         <li>
+          <a href="?do=features&amp;os=android">
+           Main features
+          </a>
+         </li>
+         <li>
+          <a href="?do=changelog&amp;os=android">
+           Change Log
+          </a>
+         </li>
+         <li>
+          <a href="?do=download&amp;os=android">
+           Download
+          </a>
+          <ol>
+           <li>
+            <a href="?do=download&amp;cat=old&amp;os=android">
+             Old Versions
+            </a>
+           </li>
+           <li>
+            <a href="?do=download&amp;cat=se&amp;os=android">
+             Skin Editor
+            </a>
+           </li>
+           <li>
+            <a href="?do=download&amp;cat=lng">
+             Localization Editor
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="?do=catalog&amp;os=android">
+           Addons
+          </a>
+          <ol>
+           <li>
+            <a href="?do=catalog&amp;os=android&amp;id=0">
+             Skins
+            </a>
+           </li>
+           <li>
+            <a href="?do=catalog&amp;os=android&amp;id=3">
+             Wallpapers
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="/forum/index.php?topic=39542.0">
+           F.A.Q.
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </td>
+     <td id="page_center_pane">
+      <div class="page_title">
+       <a href="?do=catalog">
+        Addons
+       </a>
+       »
+       <a href="?do=catalog&amp;os=windows">
+        AIMP for Windows
+       </a>
+       » Skins
+      </div>
+      <form action="/" class="catalog_form no_font_boosting" method="get">
+       <input name="do" type="hidden" value="catalog"/>
+       <input name="id" type="hidden" value="0"/>
+       <input name="os" type="hidden" value="windows"/>
+       <input name="sort" type="hidden" value="1"/>
+       <div class="catalog_form_caption">
+        <center>
+         Select your features
+        </center>
+       </div>
+       <table align="center" style="border: 0px; width: 100%;">
+        <tr>
+         <th>
+          Version
+          <br/>
+          <select class="edit" name="V" style="width: 100%;">
+           <option value="0">
+            -- All --
+           </option>
+           <option value="260">
+            AIMP v2.60
+           </option>
+           <option value="300">
+            AIMP v3.00
+           </option>
+           <option value="355">
+            AIMP v3.55
+           </option>
+           <option value="360">
+            AIMP v3.60
+           </option>
+           <option value="400">
+            AIMP v4.00
+           </option>
+           <option value="410">
+            AIMP v4.10
+           </option>
+           <option value="450">
+            AIMP v4.50
+           </option>
+           <option value="460">
+            AIMP v4.60
+           </option>
+          </select>
+         </th>
+         <th>
+          Form
+          <br/>
+          <select class="edit" name="F1" style="width:100%;">
+           <option value="0">
+            -- All --
+           </option>
+           <option value="3">
+            All-in-One
+           </option>
+           <option value="6">
+            Arbitrary (free)
+           </option>
+           <option value="1">
+            Horizontal
+           </option>
+           <option value="5">
+            Mini
+           </option>
+           <option value="4">
+            Round (oval)
+           </option>
+           <option value="47">
+            Transformer
+           </option>
+           <option value="2">
+            Vertical
+           </option>
+          </select>
+         </th>
+         <th>
+          Tone
+          <br/>
+          <select class="edit" name="F2" style="width:100%;">
+           <option value="0">
+            -- All --
+           </option>
+           <option value="9">
+            Dark
+           </option>
+           <option value="7">
+            Light
+           </option>
+           <option value="8">
+            Middle
+           </option>
+          </select>
+         </th>
+         <th>
+          Surface
+          <br/>
+          <select class="edit" name="F3" style="width:100%;">
+           <option value="0">
+            -- All --
+           </option>
+           <option value="37">
+            Aero
+           </option>
+           <option value="11">
+            Carbon
+           </option>
+           <option value="13">
+            Glass
+           </option>
+           <option value="10">
+            Glossy
+           </option>
+           <option value="12">
+            Mat
+           </option>
+          </select>
+         </th>
+         <th>
+          Interface
+          <br/>
+          <select class="edit" name="F4" style="width:100%;">
+           <option value="0">
+            -- All --
+           </option>
+           <option value="57">
+            4K
+           </option>
+           <option value="55">
+            8-bit
+           </option>
+           <option value="40">
+            Apple UI
+           </option>
+           <option value="41">
+            Hi-Fi
+           </option>
+           <option value="51">
+            Thematic
+           </option>
+           <option value="36">
+            Touch
+           </option>
+           <option value="39">
+            Windows 8 UI
+           </option>
+           <option value="56">
+            Windows Classic
+           </option>
+          </select>
+         </th>
+        </tr>
+        <tr>
+         <td colspan="5">
+          Key words:
+          <br/>
+          <input class="edit" name="keywords" style="width:97%" type="text" value=""/>
+         </td>
+        </tr>
+       </table>
+       <center>
+        <input class="button" style="float: none;" type="submit" value="Show"/>
+       </center>
+      </form>
+      <center>
+       <div class="catalog_how_to no_font_boosting">
+        <a href="/files/how_to_install_addons_lang-en.txt" target="_blank">
+         How can I install downloaded Skins / Plugins?
+        </a>
+       </div>
+      </center>
+      <center>
+       Sort:
+       <nobr>
+        [
+        <a href="?do=catalog&amp;os=windows&amp;id=0&amp;sort=0">
+         by date
+        </a>
+        ]
+       </nobr>
+       <nobr>
+        [
+        <u>
+         by popularity
+        </u>
+        ]
+       </nobr>
+       <nobr>
+        [
+        <a href="?do=catalog&amp;os=windows&amp;id=0&amp;sort=2">
+         by name
+        </a>
+        ]
+       </nobr>
+      </center>
+      <br/>
+      <div class="card no_font_boosting">
+       <div class="card_content">
+        <h1>
+         <a href="?do=catalog&amp;rec_id=1078">
+          Mirillis Splash x v3.3.1
+         </a>
+        </h1>
+        <h2>
+         <a href="/?do=catalog&amp;os=windows&amp;id=0&amp;author=90&amp;sort=1">
+          memo-se
+         </a>
+         | 2019-06-14 | 2823.39 KB |
+         <nobr>
+          Downloads: 42218
+         </nobr>
+        </h2>
+        <table class="card_indent">
+         <tr>
+          <th valign="top">
+           <a href="/files/windows/skins/s/SplashX_full.png" rel="lightbox">
+            <img alt="Preview" src="/files/windows/skins/s/SplashX_sm.png"/>
+           </a>
+          </th>
+          <th valign="top">
+           <b>
+            Platform
+           </b>
+           : Windows
+           <br/>
+           <b>
+            Version
+           </b>
+           : AIMP v4.50 or newer
+           <br/>
+           <br/>
+           <b>
+            Form:
+           </b>
+           All-in-One
+           <br/>
+           <b>
+            Tone:
+           </b>
+           Dark
+           <br/>
+           <b>
+            Surface:
+           </b>
+           Mat
+           <br/>
+           <br/>
+           <a href="https://www.deviantart.com/memo-se/art/Mirillis-Splash-x-Skin-for-AIMP-Player-277659735">
+            SplashX on Deviantart
+           </a>
+          </th>
+         </tr>
+        </table>
+       </div>
+       <div class="card_buttons">
+        <a class="button" href="/?do=catalog.download&amp;id=1078">
+         Download
+        </a>
+        <a class="button" href="/forum/index.php?topic=62826">
+         Comments
+        </a>
+       </div>
+      </div>
+      <div class="card no_font_boosting">
+       <div class="card_content">
+        <h1>
+         <a href="?do=catalog&amp;rec_id=1047">
+          Technics Audio System
+         </a>
+        </h1>
+        <h2>
+         <a href="/?do=catalog&amp;os=windows&amp;id=0&amp;author=131&amp;sort=1">
+          Black_AVP
+         </a>
+         | 2019-05-06 | 8534.87 KB |
+         <nobr>
+          Downloads: 115884
+         </nobr>
+        </h2>
+        <table class="card_indent">
+         <tr>
+          <th valign="top">
+           <a href="/files/windows/skins/t/Technics_Audio_System_full.jpg" rel="lightbox">
+            <img alt="Preview" src="/files/windows/skins/t/Technics_Audio_System_sm.jpg"/>
+           </a>
+          </th>
+          <th valign="top">
+           <b>
+            Platform
+           </b>
+           : Windows
+           <br/>
+           <b>
+            Version
+           </b>
+           : AIMP v4.60 or newer
+           <br/>
+           <br/>
+           <b>
+            Form:
+           </b>
+           Horizontal
+           <br/>
+           <b>
+            Tone:
+           </b>
+           Dark
+           <br/>
+           <b>
+            Surface:
+           </b>
+           Mat
+           <br/>
+           <b>
+            Interface:
+           </b>
+           Hi-Fi
+           <br/>
+           <br/>
+           Technics RS-B905 Closed Loop Dual Capstan Cassette Deck (1988-90)
+          </th>
+         </tr>
+        </table>
+       </div>
+       <div class="card_buttons">
+        <a class="button" href="/?do=catalog.download&amp;id=1047">
+         Download
+        </a>
+        <a class="button" href="/forum/index.php?topic=61900">
+         Comments
+        </a>
+       </div>
+      </div>
+      <div class="card no_font_boosting">
+       <div class="card_content">
+        <h1>
+         <a href="?do=catalog&amp;rec_id=1016">
+          AndroEvolution v0.94
+         </a>
+        </h1>
+        <h2>
+         <a href="/?do=catalog&amp;os=windows&amp;id=0&amp;author=199&amp;sort=1">
+          TeDj
+         </a>
+         | 2019-01-22 | 515.28 KB |
+         <nobr>
+          Downloads: 185955
+         </nobr>
+        </h2>
+        <table class="card_indent">
+         <tr>
+          <th valign="top">
+           <a href="/files/windows/skins/a/AndroEvolution_full.jpg" rel="lightbox">
+            <img alt="Preview" src="/files/windows/skins/a/AndroEvolution_sm.jpg"/>
+           </a>
+          </th>
+          <th valign="top">
+           <b>
+            Platform
+           </b>
+           : Windows
+           <br/>
+           <b>
+            Version
+           </b>
+           : AIMP v4.50 or newer
+           <br/>
+           <br/>
+           <b>
+            Form:
+           </b>
+           All-in-One
+           <br/>
+           <b>
+            Tone:
+           </b>
+           Dark
+           <br/>
+           <b>
+            Surface:
+           </b>
+           Mat
+           <br/>
+           <b>
+            Interface:
+           </b>
+           Touch
+           <br/>
+           <br/>
+           Reincarnation of the old skin named
+           <a href="//www.aimp.ru/?do=catalog&amp;rec_id=545">
+            Andro
+           </a>
+          </th>
+         </tr>
+        </table>
+       </div>
+       <div class="card_buttons">
+        <a class="button" href="/?do=catalog.download&amp;id=1016">
+         Download
+        </a>
+        <a class="button" href="/forum/index.php?topic=55859">
+         Comments
+        </a>
+       </div>
+      </div>
+      <div class="card no_font_boosting">
+       <div class="card_content">
+        <h1>
+         <a href="?do=catalog&amp;rec_id=1088">
+          Ростов-102
+         </a>
+        </h1>
+        <h2>
+         <a href="/?do=catalog&amp;os=windows&amp;id=0&amp;author=152&amp;sort=1">
+          McClaud
+         </a>
+         | 2019-07-25 | 83985.76 KB |
+         <nobr>
+          Downloads: 7664
+         </nobr>
+        </h2>
+        <table class="card_indent">
+         <tr>
+          <th valign="top">
+           <a href="/files/windows/skins/r/Rostov-102_full.jpg" rel="lightbox">
+            <img alt="Preview" src="/files/windows/skins/r/Rostov-102_sm.jpg"/>
+           </a>
+          </th>
+          <th valign="top">
+           <b>
+            Platform
+           </b>
+           : Windows
+           <br/>
+           <b>
+            Version
+           </b>
+           : AIMP v4.60 or newer
+           <br/>
+           <br/>
+           <b>
+            Form:
+           </b>
+           Horizontal
+           <br/>
+           <b>
+            Tone:
+           </b>
+           Light
+           <br/>
+           <b>
+            Surface:
+           </b>
+           Mat
+           <br/>
+           <b>
+            Interface:
+           </b>
+           Hi-Fi
+           <br/>
+           <br/>
+           Катушечный стереофонический магнитофон "Ростов-102 стерео" с I-кв 1978 года выпускал Ростовский завод "Прибор".
+           <br/>
+           1530 x 1133 px
+          </th>
+         </tr>
+        </table>
+       </div>
+       <div class="card_buttons">
+        <a class="button" href="/?do=catalog.download&amp;id=1088">
+         Download
+        </a>
+        <a class="button" href="/forum/index.php?topic=63108">
+         Comments
+        </a>
+       </div>
+      </div>
+      <div class="card no_font_boosting">
+       <div class="card_content">
+        <h1>
+         <a href="?do=catalog&amp;rec_id=1027">
+          Pioneer RT-909 v2.02
+         </a>
+        </h1>
+        <h2>
+         <a href="/?do=catalog&amp;os=windows&amp;id=0&amp;author=152&amp;sort=1">
+          McClaud
+         </a>
+         | 2019-02-01 | 74626.02 KB |
+         <nobr>
+          Downloads: 106164
+         </nobr>
+        </h2>
+        <table class="card_indent">
+         <tr>
+          <th valign="top">
+           <a href="/files/windows/skins/p/Pioneer_RT-909_full.jpg" rel="lightbox">
+            <img alt="Preview" src="/files/windows/skins/p/Pioneer_RT-909_sm.jpg"/>
+           </a>
+          </th>
+          <th valign="top">
+           <b>
+            Platform
+           </b>
+           : Windows
+           <br/>
+           <b>
+            Version
+           </b>
+           : AIMP v4.50 or newer
+           <br/>
+           <br/>
+           <b>
+            Form:
+           </b>
+           Horizontal
+           <br/>
+           <b>
+            Tone:
+           </b>
+           Light, Dark, Middle
+           <br/>
+           <b>
+            Surface:
+           </b>
+           Mat
+           <br/>
+           <b>
+            Interface:
+           </b>
+           Hi-Fi
+           <br/>
+           <br/>
+           Pioneer RT-909 - Reel To Reel Tape Recorder (1979-84).
+           <br/>
+           <br/>
+           <b>
+            Skin requires minimum 1200px screen height.
+           </b>
+           <br/>
+           <b>
+            Skin requires Windows x64
+           </b>
+          </th>
+         </tr>
+        </table>
+       </div>
+       <div class="card_buttons">
+        <a class="button" href="/?do=catalog.download&amp;id=1027">
+         Download
+        </a>
+        <a class="button" href="/forum/index.php?topic=61274">
+         Comments
+        </a>
+       </div>
+      </div>
+      <table cellspacing="0" class="navigator_host" width="100%">
+       <tr>
+        <td class="navigator">
+         Results Per Page:
+         <nobr>
+          <span>
+           5
+          </span>
+          <a href="?do=catalog&amp;os=windows&amp;id=0&amp;sort=1&amp;pagesize=10">
+           10
+          </a>
+          <a href="?do=catalog&amp;os=windows&amp;id=0&amp;sort=1&amp;pagesize=20">
+           20
+          </a>
+         </nobr>
+        </td>
+        <td align="right" class="navigator">
+         Pages:
+         <nobr>
+          <span>
+           1
+          </span>
+          <a href="?do=catalog&amp;os=windows&amp;id=0&amp;sort=1&amp;page=1">
+           2
+          </a>
+          <a href="?do=catalog&amp;os=windows&amp;id=0&amp;sort=1&amp;page=2">
+           3
+          </a>
+          ..
+          <a href="?do=catalog&amp;os=windows&amp;id=0&amp;sort=1&amp;page=136">
+           137
+          </a>
+         </nobr>
+        </td>
+       </tr>
+      </table>
+     </td>
+     <td id="page_right_pane">
+      <div class="block">
+       <div class="block_header">
+        <nobr>
+         Random addon
+        </nobr>
+       </div>
+       <div class="block_content">
+        <a href="?do=catalog&amp;os=windows&amp;id=0&amp;rec_id=530">
+         <img alt="Preview" class="catalog_news" height="120" src="/files/windows/skins/k/Kantaris_sm.jpg" width="160">
+          <br/>
+          Kantaris v2.62
+         </img>
+        </a>
+        <br/>
+        <a href="?do=catalog&amp;os=windows&amp;id=0">
+         Skins
+        </a>
+       </div>
+      </div>
+      <div class="block">
+       <div class="block_header">
+        <nobr>
+         New Addons
+        </nobr>
+       </div>
+       <div class="block_content">
+        <a href="?do=catalog&amp;os=android&amp;id=0&amp;rec_id=1025">
+         <img alt="Preview" class="catalog_news" height="120" src="/files/android/skins/o/Orange_Diamond_sm.png" width="160">
+          <br/>
+          Orange Diamond v2.0
+         </img>
+        </a>
+        <br/>
+        <a href="?do=catalog&amp;os=android&amp;id=0">
+         Skins
+        </a>
+       </div>
+      </div>
+      <div class="block">
+       <div class="block_header">
+        <nobr>
+         Blog
+        </nobr>
+       </div>
+       <div class="block_content">
+        <ul>
+         <li>
+          <a href="https://www.aimp.ru/blogs/?p=901">
+           AIMP for Android v3.00
+          </a>
+         </li>
+         <li>
+          <a href="http://www.aimp.ru/blogs/?p=880">
+           AIMP for Android v2.90
+          </a>
+         </li>
+         <li>
+          <a href="http://www.aimp.ru/blogs/?p=805">
+           AIMP v4.60
+          </a>
+         </li>
+         <li>
+          <a href="http://www.aimp.ru/blogs/?p=868">
+           Планы на 2019
+          </a>
+         </li>
+         <li>
+          <a href="http://www.aimp.ru/blogs/?p=849">
+           AIMP for Android v2.85
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <div id="footer_main_menu">
+   <div class="main_menu">
+    <div class="main_menu_hamburger" href="#" onclick="toggleVisibility('navigator_host')">
+    </div>
+    <table align="right">
+     <tr>
+      <td width="80px">
+       <a href="?do=lang&amp;lng=ru" title="Русский язык">
+        RU
+       </a>
+       <a href="?do=lang&amp;lng=en" title="English Language">
+        EN
+       </a>
+      </td>
+     </tr>
+    </table>
+    <table align="center" class="main_menu_text_bar">
+     <tr>
+      <td class="main_menu_padding" width="80">
+      </td>
+      <td>
+       <a href="/" title="Main page">
+        Main page
+       </a>
+       <a href="?do=download" title="Download">
+        Download
+       </a>
+       <a href="?do=catalog" title="Addons">
+        Addons
+       </a>
+       <a href="/forum/index.php" title="Forum">
+        Forum
+       </a>
+       <a href="/blogs/" title="Blog">
+        Blog
+       </a>
+       <a href="?do=feedback" title="Feedback">
+        Feedback
+       </a>
+      </td>
+     </tr>
+    </table>
+   </div>
+  </div>
+  <div id="footer_copyrights">
+   © Artem Izmaylov 2006-2019 | All rights reserved
+  </div>
+  <div id="footer_counter">
+   <iframe align="middle" frameborder="0" height="36" marginheight="0" marginwidth="0" scrolling="no" src="/v2/counters.html" width="460">
+   </iframe>
+  </div>
+  <!-- GOOGLE -->
+  <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+			document.write(unescape("%3Cscript src=\'" + gaJsHost + "google-analytics.com/ga.js\' type=\'text/javascript\'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+   try 
+
+			{
+
+				var pageTracker = _gat._getTracker("UA-9501126-1");
+
+					pageTracker._trackPageview();
+
+			} catch(err) {}
+  </script>
+  <!-- END OF GOOGLE -->
+ </body>
+</html>

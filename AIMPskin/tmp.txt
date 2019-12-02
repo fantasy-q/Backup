@@ -1,0 +1,5 @@
+/files/windows/skins/s/SplashX_full.png
+/files/windows/skins/t/Technics_Audio_System_full.jpg
+/files/windows/skins/a/AndroEvolution_full.jpg
+/files/windows/skins/r/Rostov-102_full.jpg
+/files/windows/skins/p/Pioneer_RT-909_full.jpg
